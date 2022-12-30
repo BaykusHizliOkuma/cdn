@@ -16,7 +16,8 @@ server{
   
   server_name cdn.baykushizliokuma.com;
 
-  return 404;
+  add_header Access-Control-Allow-Origin '*';
+
 }
 EOM
 nginx -t

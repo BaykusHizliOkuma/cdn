@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg width="664" height="664" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <title>background</title>
+    <rect fill="none" id="canvas_background" height="664" width="664" y="-1" x="-1"/>
+    <g display="none" id="canvasGrid">
+      <rect fill="url(#gridpattern)" stroke-width="0" y="1" x="1" height="664" width="664" id="svg_2"/>
+    </g>
+  </g>
+  <g>
+    <title>Layer 1</title>
+    <ellipse stroke="#000000" ry="322" rx="322" id="svg_1" cy="334" cx="331" stroke-width="10" fill="none"/>
+  </g>
+</svg>
